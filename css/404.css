@@ -1,12 +1,11 @@
-button{
-    background: #00ff00;
-    background: linear-gradient(#0000ff, #00ff00 50%, #0000ff);
-    border: 4px solid #000000;
-    border-radius: 1000px;
-    padding: 20px 45px;
-    color: #ffffff;
-    display: inline-block;
-    font: normal bold 26px/1 "Open Sans", sans-serif;
-    text-align: center;
-    text-shadow: 2px 2px #000000;
+h1{
+  color: #000000
+}
+
+h3{
+  color: #000000
+}
+
+a{
+  color: #ff3333
 }
